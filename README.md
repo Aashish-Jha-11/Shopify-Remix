@@ -1,6 +1,6 @@
 # 🛒 Shopify Remix App
 
-This is a Shopify app built using [Remix](https://remix.run/) and the official [Shopify app template](https://github.com/Shopify/shopify-app-template-remix). It allows developers to build embedded apps for Shopify stores using modern web tools.
+This is a Shopify app built using [Remix](https://remix.run/).
 
 ---
 
